@@ -32,4 +32,4 @@ If the paths for the umodel and game are correct, the only thing left is to make
 
 
 ## License
-UmodelHelper is licensed under MIT License.
+UmodelHelper is licensed under Apache 2.0 License.
