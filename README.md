@@ -39,6 +39,8 @@ On UmodelHelper you can add any arguments you usually use in umodel, as well as 
 ### Automatic AES KEY conversion
 Once the game is added the AES key will show as HEX (for UE viewer) and in Base 64, used in other tools like *UnrealPak*.
 
+## Save data
+All data is saved on the %APPDATA%\UmodelHelper\UmodelHelper as text files, in case you need to change the data directly from the files. This also provides the ability to only have the .exe and use it where you want it with no extra files (as well as giving easy backwards compatibility between versions).
 
 ## License
 UmodelHelper is licensed under Apache 2.0 License.
