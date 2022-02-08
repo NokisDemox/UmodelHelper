@@ -37,6 +37,7 @@ On UmodelHelper you can add any arguments you usually use in umodel, as well as 
 **For example:** if you like to always export the images as png, the argumnent *-png* is the one you should use so adding it to your custom arguments field will run UE viewer with said setting.
 
 ### Automatic AES KEY conversion
+When adding the game you can choose if the aes key is Base 64 or Hexadecimal (starts with *0x* and has only hexadecimal characters) in case you only have one of the formats.
 Once the game is added the AES key will show as HEX (for UE viewer) and in Base 64, used in other tools like *UnrealPak*.
 
 ## Save data
